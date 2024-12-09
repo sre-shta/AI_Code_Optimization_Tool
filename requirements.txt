@@ -1,0 +1,7 @@
+streamlit
+pylint
+flake8
+radon
+plotly
+groq
+python-dotenv
