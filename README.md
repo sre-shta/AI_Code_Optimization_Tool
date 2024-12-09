@@ -74,9 +74,9 @@ This project aims to help developers optimize their Python code by highlighting 
 ## Screenshots
 
 ### 1. Main Interface:
-![Main Interface](https://imgur.com/a/CMAtWws)
+![Main Interface](https://github.com/user-attachments/assets/71d9df9f-ab3d-463c-8df4-da1981594cfb)
 
-- Description: This screenshot shows the main interface of the tool. Users can paste their Python code in the text box provided and click the "Analyze" button.
+- Description: This screenshot shows the main interface of the tool. Users can paste their Python code in the text box provided and click "ctrl+enter" to analyze.
 
 ### 2. Code Analysis Results:
 ![Code Analysis Results](https://imgur.com/a/kOUPtc3)
