@@ -87,17 +87,3 @@ This project aims to help developers optimize their Python code by highlighting 
 ![Example Code and Results](https://github.com/user-attachments/assets/500d4ee1-e6cf-4fd2-8853-f3f6b8b325f3)
 
 - Description: An example code snippet is analyzed, and the tool displays the bottlenecks and suggestions for improvement.
-
-## Evaluation Criteria
-
-1. **Correctness**: 
-   - The tool correctly identifies bottlenecks in Python code and fetches optimization suggestions from the Groq API.
-
-2. **Code Quality**:
-   - The code is modular and easy to understand.
-   - Functions are well-named and do not have excessive side effects.
-   - Proper use of typed parameters and typedefs in Python.
-
-3. **Usage of Typed Parameters and Typedefs**:
-   - The tool uses type hints to specify the data types for parameters, enhancing readability and maintainability.
-   - Where necessary, the use of typedefs helps simplify complex data structures.
