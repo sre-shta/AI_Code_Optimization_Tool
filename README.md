@@ -74,17 +74,17 @@ This project aims to help developers optimize their Python code by highlighting 
 ## Screenshots
 
 ### 1. Main Interface:
-![Main Interface](https://imgur.com/link-to-screenshot1)
+![Main Interface](https://imgur.com/a/CMAtWws)
 
 - Description: This screenshot shows the main interface of the tool. Users can paste their Python code in the text box provided and click the "Analyze" button.
 
 ### 2. Code Analysis Results:
-![Code Analysis Results](https://imgur.com/link-to-screenshot2)
+![Code Analysis Results](https://imgur.com/a/kOUPtc3)
 
 - Description: This screenshot displays the results of the code analysis, including identified bottlenecks and suggested optimizations.
 
 ### 3. Example Code and Results:
-![Example Code and Results](https://imgur.com/link-to-screenshot3)
+![Example Code and Results](https://imgur.com/a/UUueFaR)
 
 - Description: An example code snippet is analyzed, and the tool displays the bottlenecks and suggestions for improvement.
 
