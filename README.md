@@ -79,7 +79,7 @@ This project aims to help developers optimize their Python code by highlighting 
 - Description: This screenshot shows the main interface of the tool. Users can paste their Python code in the text box provided and click "ctrl+enter" to analyze.
 
 ### 2. Code Analysis Results:
-![Code Analysis Results](https://imgur.com/a/kOUPtc3)
+![Code Analysis Results]("https://github.com/user-attachments/assets/535906b9-eceb-4a8b-b61b-3cb003a3759c)
 
 - Description: This screenshot displays the results of the code analysis, including identified bottlenecks and suggested optimizations.
 
