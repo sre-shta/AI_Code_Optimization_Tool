@@ -84,7 +84,7 @@ This project aims to help developers optimize their Python code by highlighting 
 - Description: This screenshot displays the results of the code analysis, including identified bottlenecks and suggested optimizations.
 
 ### 3. Example Code and Results:
-![Example Code and Results](https://imgur.com/a/UUueFaR)
+![Example Code and Results](https://github.com/user-attachments/assets/500d4ee1-e6cf-4fd2-8853-f3f6b8b325f3)
 
 - Description: An example code snippet is analyzed, and the tool displays the bottlenecks and suggestions for improvement.
 
